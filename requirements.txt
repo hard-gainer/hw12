@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+pydantic
+passlib[bcrypt]
+python-multipart
+requests
+redis
